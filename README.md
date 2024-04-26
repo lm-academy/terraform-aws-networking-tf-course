@@ -1,5 +1,5 @@
 # terraform-aws-networking-tf-course
-Networking module created during Lauro Müller's Terraform course.
+Networking module created during Lauro Müller's Terraform course: https://www.lauromueller.com/courses/mastering-terraform
 
 This module manages the creation of VPCs and Subnets, allowing for the creation of both private and public subnets.
 
